@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  gallery
+
+  Created by Alexey Bondar on 1/20/24.
+  
+*/
+
+"Cancel" = "Cancel";
+"Ok" = "Ok";
+"Application Title" = "Gallery";
+"No Internet Connection" = "No Internet Connection";
+"Album with requested id is not found" = "Album with requested id is not found";
+"Photos not found" = "Photos not found";
+"Posts not found" = "Posts not found";
+"Photo with requested id is not found" = "Photo with requested id is not found";
+"Unable to share the photo" = "Unable to share the photo";
+"I woke up" = "I woke up";
+"title" = "title";
+"description" = "description";
+"Details" = "Details";
+"Create Post" = "Create Post";
+"Submit" = "Submit";
+"Unable to create post" = "Unable to create post";
+"New post #%d was created" = "New post #%d was created";
